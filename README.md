@@ -9,4 +9,14 @@ _Embarking on the 100 Days UI Challenge, I’ll be sharing one design each day a
 - [x] [Day 007](https://github.com/Sat-Sid/100Days-Daily-UI-Challenge/tree/main/Day-007)
 - [x] [Day 008](https://github.com/Sat-Sid/100Days-Daily-UI-Challenge/tree/main/Day-008)
 - [x] [Day 009](https://github.com/Sat-Sid/100Days-Daily-UI-Challenge/tree/main/Day-009)
-- [ ] Day 010
+- [x] [Day 010](https://github.com/Sat-Sid/100Days-Daily-UI-Challenge/tree/main/Day-010)
+- [ ] Day 011
+- [ ] Day 012
+- [ ] Day 013
+- [ ] Day 014
+- [ ] Day 015
+- [ ] Day 016
+- [ ] Day 017
+- [ ] Day 018
+- [ ] Day 019
+- [ ] Day 020
